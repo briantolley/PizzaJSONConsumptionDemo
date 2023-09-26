@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgamwiHRrJboThpL1desKw0pRLlTxJ0CPZxYs1OIfsoizjWrg52+HeiatPA+ogvzpmMW4Q90F3LvTP/sIlPAbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\digit\\Desktop\\Projects\\Advanced Proprietary Pizza Logistics Engine (APPLE)\\APPLEdemo\\APPLEdemo\\APPLEdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\digit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

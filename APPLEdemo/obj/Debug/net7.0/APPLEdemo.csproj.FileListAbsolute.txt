@@ -1,0 +1,17 @@
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\APPLEdemo.exe
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\APPLEdemo.deps.json
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\APPLEdemo.runtimeconfig.json
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\APPLEdemo.dll
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\APPLEdemo.pdb
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.AssemblyInfoInputs.cache
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.AssemblyInfo.cs
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.csproj.CoreCompileInputs.cache
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.dll
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\refint\APPLEdemo.dll
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.pdb
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.genruntimeconfig.cache
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\ref\APPLEdemo.dll
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.csproj.AssemblyReference.cache
+C:\Users\digit\Desktop\Projects\Advanced Proprietary Pizza Logistics Engine (APPLE)\APPLEdemo\APPLEdemo\obj\Debug\net7.0\APPLEdemo.csproj.CopyComplete
